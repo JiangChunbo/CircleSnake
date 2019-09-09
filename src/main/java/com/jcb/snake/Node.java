@@ -5,7 +5,7 @@ import java.awt.Graphics;
 
 
 public class Node {
-	/*节点行*/
+
 	int row;
 	
 	int col;
@@ -13,7 +13,7 @@ public class Node {
 	int x;
 	
 	int y;
-	
+	/*asa*/*/
 	Node prev;
 	/*ajsakjas*/
 	Node next;
