@@ -15,7 +15,7 @@ public class Node {
 	int y;
 	
 	Node prev;
-	
+	/*ajsakjas*/
 	Node next;
 	
 	Node(int row, int col) {
